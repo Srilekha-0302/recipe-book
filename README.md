@@ -24,9 +24,9 @@
 
 Developed by a team of university students as part of our course learning:
 
-- Student 1
-- Student 2
-- Student 3
+- Ravuri Sai Srilekha
+- Shashumna Nivas
+- Sheelam Divya
 
 ## Usage
 
