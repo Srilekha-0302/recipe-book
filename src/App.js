@@ -655,7 +655,7 @@ function App() {
         {
           id: 22,
           title: "Iced Matcha Latte",
-          image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+          image: "https://www.eatingbirdfood.com/wp-content/uploads/2021/04/iced-matcha-latte-hero.jpg",
           prepTime: 5,
           cookTime: 0,
           servings: 1,
@@ -736,7 +736,7 @@ function App() {
         {
           id: 25,
           title: "Hot Chocolate",
-          image: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+          image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Dwm2ML1clruSQvBE4zfyCelG9FA6ssLoNA&s",
           prepTime: 5,
           cookTime: 10,
           servings: 2,
