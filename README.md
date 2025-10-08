@@ -18,6 +18,7 @@
 - **Frontend**: React.js
 - **Styling**: CSS (with custom styles)
 - **State Management**: React Hooks
+- **Routing**: React Router
 - **Deployment Ready**: Can be hosted on GitHub Pages or any static server.
 
 ## Team
@@ -27,6 +28,33 @@ Developed by a team of university students as part of our course learning:
 - Ravuri Sai Srilekha
 - Shashumna Nivas
 - Sheelam Divya
+
+## Results / Screenshots
+
+<p float="left">
+  <img src="results/1.png" width="45%" />
+  <img src="results/2.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="results/3.png" width="45%" />
+  <img src="results/4.png" width="45%" />
+</p>
+
+<p float="left">
+  <img src="results/5.png" width="45%" />
+  <img src="results/6.png" width="45%" />
+</p>
+
+## React Topics Covered
+
+- Functional Components & JSX
+- Props and State Management
+- useState & useEffect Hooks
+- Conditional Rendering
+- Event Handling and Forms
+- Routing (React Router)
+- Modular and Reusable Components
 
 ## Usage
 
