@@ -6,6 +6,11 @@
 - Share their own cooking tips and recipe reviews.
 - Interact with a community of food enthusiasts.
 
+## Project Presentation
+
+You can view the project presentation online here:  
+[View Presentation](https://www.canva.com/design/DAG1N05LiKk/GGlWaSEwtlGGoVoZzvwJZQ/edit?utm_content=DAG1N05LiKk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Features
 
 - **Community Snippets**: Quick tips, facts, and recipe reviews.
